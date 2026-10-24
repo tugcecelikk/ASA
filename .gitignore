@@ -1,0 +1,5 @@
+
+WPP2024_Demographic_Indicators_Medium_csv*
+*.gz
+.DS_Store
+__pycache__/
